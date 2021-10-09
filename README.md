@@ -33,7 +33,7 @@
 
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimensional1&show_icons=true&locale=en&layout=compact" alt="dimensional1" /></p><div/><br>
 
-<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimensional1&show_icons=true&locale=en" alt="dimensional1" /></p><div/><br>
+<div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimensional1&show_icons=true&locale=en" alt="dimensional1" /></p><div/><br><br>
 
 <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimensional1&" alt="dimensional1" /></p><div/>
   
