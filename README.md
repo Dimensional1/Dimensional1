@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Out of box mindset (with tempting vision for my thirst)**
 
-- 💬 Ask me about **Tricks you want to share 🔐**
+- 💬 Ask me about ** Show me a tricks and time saving hacks i will review it 😉**
 
 - 📫 How to reach me **Dimensional2414@gmail.com**
 
