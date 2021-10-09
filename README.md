@@ -31,7 +31,7 @@
 <div><h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a Mocha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Mocha" /></a></p><br><br></div>
 
-<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimensional1&show_icons=true&locale=en&layout=compact" alt="dimensional1" /></p><div/><br>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimensional1&show_icons=true&locale=en&layout=compact" alt="dimensional1" /></p></div><br><br> <br>
 
 <div><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimensional1&show_icons=true&locale=en" alt="dimensional1" /></p><div/><br><br>
 
