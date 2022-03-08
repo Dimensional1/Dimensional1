@@ -1,11 +1,11 @@
-<h1 align="center">Hi 🙋‍♂️ I'm Dimensional 1 Aka kartikay</h1>
+<h1 align="center">Hi 🙋‍♂️ I'm Dimension 1 Aka kartikay</h1>
 <h3 align="center">A Curious solution developer from India.</h3>
 
 
-  ![snake gif](https://github.com/dimensional1/dimensional1/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/dimensional1/dimension1/blob/output/github-contribution-grid-snake.gif)
 
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimensional1&label=Profile%20views&color=0e75b6&style=flat" alt="dimensional1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimension1&label=Profile%20views&color=0e75b6&style=flat" alt="dimensional1" /> </p>
   <div/>
 
 <!-- <div><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimensional1" alt="dimensional1" /></a> </p></div> -->
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about ** Show me a tricks and time saving hacks i will review it 😉**
 
-- 📫 How to reach me **Dimensional2414@gmail.com**
+- 📫 How to reach me **Dimension2414@gmail.com**
 
 - ⚡ Fun fact **Happiness increase the blood study says , if you want to donate your blood every month just assign me a project i will serve it to you along with a pint of blood increase in you 🎅🏻 :) (**
   
