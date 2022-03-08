@@ -2,7 +2,7 @@
 <h3 align="center">A Curious solution developer from India.</h3>
 
 
-  ![snake gif](https://github.com/dimensional1/dimensiona1/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/dimensional1/dimensional1/blob/output/github-contribution-grid-snake.gif)
 
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimension1&label=Profile%20views&color=0e75b6&style=flat" alt="dimensional1" /> </p>
