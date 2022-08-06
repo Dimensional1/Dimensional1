@@ -7,7 +7,7 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimension1&label=Profile%20views&color=0e75b6&style=flat" alt="dimensional1" /> </p>
   <div/>
-<img align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fkungfupanda%2Fimages%2F2%2F2e%2FOogway-white.png%2Frevision%2Flatest%3Fcb%3D20160326153345&imgrefurl=https%3A%2F%2Fkungfupanda.fandom.com%2Fwiki%2FOogway&tbnid=M9wsW_HWmG93PM&vet=12ahUKEwi6vdaF5bH5AhWR_DgGHe6mBAYQMygAegUIARDiAQ..i&docid=QRSgzBG8Ep_j-M&w=415&h=481&q=master%20oogway&ved=2ahUKEwi6vdaF5bH5AhWR_DgGHe6mBAYQMygAegUIARDiAQ">
+<img align="right" src="	https://static.wikia.nocookie.net/kungfupanda/imag…ogway-white.png/revision/latest?cb=20160326153345">
 <!-- <div><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimensional1" alt="dimensional1" /></a> </p></div> -->
 
 - 🔭 I’m currently working on **React**
