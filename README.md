@@ -10,7 +10,7 @@
 <img align="right" src="	https://static.wikia.nocookie.net/kungfupanda/imag…ogway-white.png/revision/latest?cb=20160326153345">
 <!-- <div><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimensional1" alt="dimensional1" /></a> </p></div> -->
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **MERN stack**
 
 - 🌱 I’m currently learning **Back-end**
 
