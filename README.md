@@ -36,10 +36,10 @@
 <div><h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a Mocha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Mocha" /></a></p></div><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-bisht&" alt="kartikay-bisht" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikay-bisht&" alt="kartikay-bisht" /></p>
 <div/><br><br>
 
-<div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimensional1&" alt="dimensional1" /></p><div/>
+<div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dimensional1&" alt="dimensional1" /></p><div/>
   
   
  
