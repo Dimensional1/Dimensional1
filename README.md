@@ -1,4 +1,4 @@
-    <h1 align="center">Hi 🙋‍♂️ I'm Dimension 1 Aka kartikay</h1>
+<h1 align="center">Hi 🙋‍♂️ I'm Dimension 1 Aka kartikay</h1>
 <h3 align="center">A Curious solution developer from India.</h3>
 
 
