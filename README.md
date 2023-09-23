@@ -20,7 +20,7 @@
 
 - 💬 Ask me about ** Show me a tricks and time saving hacks i will review it 😉**
 
-- 📫 How to reach me **Dimension2414@gmail.com**
+- 📫 How to reach me **Kartikay.bisht142000@gmail.com**
 
 - ⚡ Fun fact **Happiness increase the blood study says , if you want to donate your blood every month just assign me a project i will serve it to you along with a pint of blood increase in you 🎅🏻 :) (**
   
